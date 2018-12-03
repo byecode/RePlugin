@@ -5,8 +5,12 @@
 </p>
 
 [![license](http://img.shields.io/badge/license-Apache2.0-brightgreen.svg?style=flat)](https://github.com/Qihoo360/RePlugin/blob/master/LICENSE)
-[![Release Version](https://img.shields.io/badge/release-2.2.1-brightgreen.svg)](https://github.com/Qihoo360/RePlugin/wiki/%E5%8F%91%E8%A1%8C%E6%B3%A8%E8%AE%B0)
+[![Release Version](https://img.shields.io/badge/release-2.3.1-brightgreen.svg)](https://github.com/Qihoo360/RePlugin/releases)
 
+## 活动通知
+移动技术最新活动通知：
+2018年12月16日，360正式开源重量级移动性能监控产品ArgusAPM，同时将会有360、美团技术大牛为大家分享Android、iOS性能监控实践。
+欢迎报名参加，戳戳戳!!!-->https://mp.weixin.qq.com/s/-7DCnXI_EBMBwYG_PUuUDg
 
 ## RePlugin —— A flexible, stable, easy-to-use Android Plug-in Framework
 
@@ -53,6 +57,9 @@ At present, almost **all Apps with hundreds of millions users from 360, and many
 
 ## Our Vision
 Make RePlugin be used in all kinds of ordinary Apps; and provide stable, flexible, liberal plug-ins which adopt for both large and small projects.
+
+## Latest features
+Solved the Android P (Android 9.0) related adaptation issues, fully support the official version of Android P (Android 9.0).
 
 ## RePlugin Architecture
 
